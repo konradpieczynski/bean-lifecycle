@@ -1,4 +1,4 @@
-package com.kodilla.beanlifecycle;
+package com.kodilla.lifecycle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
